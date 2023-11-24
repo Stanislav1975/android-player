@@ -15,6 +15,6 @@ android {
 
 dependencies {
     implementation 'com.android.support:appcompat-v7:22.2.1'
-    compile 'com.eftimoff:androidplayer:1.0.3@aar'
-    compile 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.eftimoff:androidplayer:1.0.3@aar'
+    implementation 'com.nineoldandroids:library:2.4.0'
 }
